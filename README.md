@@ -13,10 +13,12 @@
 [Feature Management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management) is a modern software-development practice that decouples feature release from code deployment and enables quick changes to feature availability on demand. It uses a technique called feature flags (also known as feature toggles and feature switches) to dynamically administer a feature's lifecycle.
 
 ## Platforms
--
+- [ConfigCat](https://configcat.com) - A hosted service for feature flag and configuration management. 
+- [DevCycle](https://devcycle.com) - A tool for modern development teams who are looking to graduate from their current feature flag tool. 
+- [LaunchDarkly](https://launchdarkly.com) - Fast, scalable feature flag & toggle managemen for the modern enterprise.
 
 ## Articles
-- 
+- ["Feature Toggles (aka Feature Flags)"](https://martinfowler.com/articles/feature-toggles.html): An overview of feature flagging concepts by [Martin Fowler](https://twitter.com/martinfowler)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,7 +1,7 @@
 # Awesome Feature Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint Awesome Feature Management](https://github.com/andrewdmaclean/awesome-feature-management/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/andrewdmaclean/awesome-feature-management/actions/workflows/main.yml)
 > Curated list of awesome feature management platforms, articles, and resources.
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
-- Contributions welcome, please see [contribution guide](contributing.md).
+- Contributions welcome, please see [contribution guide](CONTRIBUTING.md).
 
 ## Contents
 - [About](#about)

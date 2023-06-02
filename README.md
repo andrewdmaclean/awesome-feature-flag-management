@@ -1,5 +1,5 @@
 # Awesome Feature Flag Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Curated list of awesome feature flag management platforms, articles, and resources.
+> Feature flag management platforms, articles, and resources.
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](CONTRIBUTING.md).
 

@@ -13,7 +13,7 @@
 [Feature Management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management) is a modern software-development practice that decouples feature release from code deployment and enables quick changes to feature availability on demand. It uses a technique called feature flags (also known as feature toggles and feature switches) to dynamically administer a feature's lifecycle.
 
 ## Open Source Projects
-- [OpenFeature](https://openfeature.dev/) - A CNCF sandbox project which aims to standardize feature flagging implimentations.
+- [OpenFeature](https://openfeature.dev/) - A CNCF sandbox project which aims to standardize feature flagging implementations.
 - [Laravel Pennant](https://github.com/laravel/pennant) - A simple, lightweight Laravel PHP library for managing feature flags.
 
 ## Management Platforms

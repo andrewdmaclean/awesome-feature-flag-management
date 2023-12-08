@@ -22,6 +22,7 @@
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
 - [Flagsmith](https://flagsmith.com) - An all-in-one platform for developing, implementing, and managing your feature flags.
 - [Growthbook](https://growthbook.io) - An open source platform to help companies make data-driven product decisions with feature flags and A/B tests.
+- [GO Feature Flag](https://gofeatureflag.org) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 - [Split](https://www.split.io/) - An enterprise feature management & experimentation platform.
 - [Statsig](https://statsig.com/) - A modern feature management and experimentation platform.
 - [Tggl](https://tggl.io) - A feature flag service for agile teams.

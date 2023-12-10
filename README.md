@@ -44,6 +44,7 @@
 - [harness](https://www.harness.io/products/feature-flags) - feature management with OpenFeature SDKs, written in Java.
 - [Hypertune](https://www.hypertune.com/) - Type-safe feature flags, Optimized for TypeScript, Next.js and Vercel Edge Config.
 - [Laravel Feature Flags](https://feature-flags.docs.ylsideas.co/) - Feature flag option for Laravel, written in PHP.
+- [LaunchDarkly](https://launchdarkly.com/) - feature management with OpenFeature SDKs.
 - [Molasses](https://www.molasses.app/?r=prd-ffs) - a suite of feature flag and A/B testing.
 - [Optimizely](https://www.optimizely.com/optimization-glossary/feature-flags/) - Feature flags.
 - [PostHog](https://posthog.com/feature-flags) - feature management.

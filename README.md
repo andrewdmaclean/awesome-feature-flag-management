@@ -20,6 +20,7 @@
 - [ConfigCat](https://configcat.com) - A hosted service for feature flag and configuration management. 
 - [DevCycle](https://devcycle.com) - A tool for modern development teams who are looking to graduate from their current feature flag tool. 
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
+- [Flagr](https://openflagr.github.io/flagr) - A community-driven OSS effort of advancing the development of Flagr.
 - [Flagsmith](https://flagsmith.com) - An all-in-one platform for developing, implementing, and managing your feature flags.
 - [Growthbook](https://growthbook.io) - An open source platform to help companies make data-driven product decisions with feature flags and A/B tests.
 - [Split](https://www.split.io/) - An enterprise feature management & experimentation platform.

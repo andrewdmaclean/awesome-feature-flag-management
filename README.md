@@ -41,9 +41,9 @@
 ### Technology-specific Implementations
 
 - [Django Waffle](https://waffle.readthedocs.io) - Feature flipper for Django `Python`.
-- [FF4J](https://ff4j.org/) - Feature flags for Java `Java`
+- [FF4J](https://ff4j.org/) - Feature flags for Java `Java`.
 - [flopflip](https://github.com/tdeekens/flopflip) - Flip or flop features in your React application in real-time backed by flag provider of your choice `TypeScript`.
-- [FunWithFlags](https://github.com/tompave/fun_with_flags) - feature flags for Elixir `Elixir`
+- [FunWithFlags](https://github.com/tompave/fun_with_flags) - feature flags for Elixir `Elixir`.
 - [HappyKit](https://happykit.dev/) - Feature flags for your Next.js applications `TypeScript`.
 - [Laravel Feature Flags](https://feature-flags.docs.ylsideas.co) - A feature flag option for Laravel `PHP`.
 - [Laravel Pennant](https://laravel.com/docs/10.x/pennant) - A simple, lightweight feature flag package for Laravel `PHP`.
@@ -58,7 +58,7 @@
 - [Eppo](https://www.geteppo.com) - A next gen A/B experimentation platform that enables entrepreneurial culture.
 - [FeatureHub](https://www.featurehub.io) - A highly scalable cloud native platform serving features in near real time.
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
-- [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests. `TypeScript`
+- [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests `TypeScript`.
 - [Molasses](https://www.molasses.app/) - A suite of feature flag and A/B testing tools that allows your teams to ship code more often and with fewer incidents.
 - [Optimizely](https://www.optimizely.com) - An experimentation platform that helps developers build and run A/B tests on websites.
 - [PostHog](https://posthog.com) - An all-in-one, open source platform for building better products.

@@ -29,6 +29,7 @@
 - [flagr](https://openflagr.github.io/flagr) - An open-source feature flagging, A/B testing, and dynamic configuration microservice ` Go`.
 - [FeatBit](https://www.featbit.co) - A fast, scalable, and popular open source feature flags management service `C#/.NET`.
 - [FeatureVisor](https://featurevisor.com) - Feature management for developers with GitOps `TypeScript`.
+- [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests `TypeScript`.
 
 #### Offering OpenFeature SDKs
 
@@ -42,7 +43,7 @@
 
 - [Django Waffle](https://waffle.readthedocs.io) - Feature flipper for Django `Python`.
 - [FF4J](https://ff4j.org/) - Feature flags for Java `Java`.
-- [flopflip](https://github.com/tdeekens/flopflip) - Flip or flop features in your React application in real-time backed by flag provider of your choice `TypeScript`.
+- [flopflip](https://github.com/tdeekens/flopflip) - Feature management for React apps backed by flag provider of your choice `TypeScript`.
 - [FunWithFlags](https://github.com/tompave/fun_with_flags) - feature flags for Elixir `Elixir`.
 - [HappyKit](https://happykit.dev/) - Feature flags for your Next.js applications `TypeScript`.
 - [Laravel Feature Flags](https://feature-flags.docs.ylsideas.co) - A feature flag option for Laravel `PHP`.
@@ -54,11 +55,10 @@
 ### Multi-language Management Platforms
 
 - [ABTasty](https://www.abtasty.com) - A customer experience optimization and feature management company.
-- [Apptimize](https://apptimize.com) - Empowers product teams to efficiently run A/B tests, rollout and manage new features, and deliver personalized user experiences.
+- [Apptimize](https://apptimize.com) - Enables teams to run A/B tests, rollout and manage new features, and deliver personalized user experiences.
 - [Eppo](https://www.geteppo.com) - A next gen A/B experimentation platform that enables entrepreneurial culture.
 - [FeatureHub](https://www.featurehub.io) - A highly scalable cloud native platform serving features in near real time.
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
-- [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests `TypeScript`.
 - [Molasses](https://www.molasses.app/) - A suite of feature flag and A/B testing tools that allows your teams to ship code more often and with fewer incidents.
 - [Optimizely](https://www.optimizely.com) - An experimentation platform that helps developers build and run A/B tests on websites.
 - [PostHog](https://posthog.com) - An all-in-one, open source platform for building better products.

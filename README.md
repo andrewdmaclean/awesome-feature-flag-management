@@ -15,6 +15,21 @@
 ### About OpenFeature
 [OpenFeature](https://openfeature.dev) OpenFeature is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool.
 
+## Open Source Projects
+- [OpenFeature](https://openfeature.dev/) - A CNCF sandbox project which aims to standardize feature flagging implementations.
+- [Laravel Pennant](https://github.com/laravel/pennant) - A simple, lightweight Laravel PHP library for managing feature flags.
+
+## Management Platforms
+- [ConfigCat](https://configcat.com) - A hosted service for feature flag and configuration management. 
+- [DevCycle](https://devcycle.com) - A tool for modern development teams who are looking to graduate from their current feature flag tool. 
+- [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
+- [Flagsmith](https://flagsmith.com) - An all-in-one platform for developing, implementing, and managing your feature flags.
+- [Growthbook](https://growthbook.io) - An open source platform to help companies make data-driven product decisions with feature flags and A/B tests.
+- [Split](https://www.split.io/) - An enterprise feature management & experimentation platform.
+- [Statsig](https://statsig.com/) - A modern feature management and experimentation platform.
+- [Tggl](https://tggl.io) - A feature flag service for agile teams.
+- [Unleash](https://www.getunleash.io/) - An open-source feature management solution.
+
 ## Educational Resources
 
 - ["Feature Flag Implementation Series "](https://samlearnsazure.blog/2019/09/06/learning-about-feature-flags/) - [Sam Smith](https://samlearnsazure.blog) documents their journey implementing feature flags

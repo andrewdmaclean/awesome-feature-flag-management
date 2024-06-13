@@ -59,6 +59,7 @@
 - [Eppo](https://www.geteppo.com) - A next gen A/B experimentation platform that enables entrepreneurial culture.
 - [FeatureHub](https://www.featurehub.io) - A highly scalable cloud native platform serving features in near real time.
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.
+- [Hypertune](https://www.hypertune.com) - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control.
 - [Molasses](https://www.molasses.app/) - A suite of feature flag and A/B testing tools that allows your teams to ship code more often and with fewer incidents.
 - [Optimizely](https://www.optimizely.com) - An experimentation platform that helps developers build and run A/B tests on websites.
 - [PostHog](https://posthog.com) - An all-in-one, open source platform for building better products.
@@ -77,4 +78,3 @@
 
 ### Technology-specific Implementations
 - [Flipper](https://www.flippercloud.io/) - Feature flags and controls for Ruby apps and their client-side code.
-- [Hypertune](https://www.hypertune.com/) - Type-safe feature flags, Optimized for TypeScript, Next.js and Vercel Edge Config.

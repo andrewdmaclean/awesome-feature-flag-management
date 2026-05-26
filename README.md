@@ -56,6 +56,7 @@
 
 - [ABTasty](https://www.abtasty.com) - A customer experience optimization and feature management company.
 - [Apptimize](https://apptimize.com) - Enables teams to run A/B tests, rollout and manage new features, and deliver personalized user experiences.
+- [DeployRamp](https://www.deployramp.com) - AI-powered platform that automatically wraps risky code changes in feature flags.
 - [Eppo](https://www.geteppo.com) - A next gen A/B experimentation platform that enables entrepreneurial culture.
 - [FeatureHub](https://www.featurehub.io) - A highly scalable cloud native platform serving features in near real time.
 - [Flagship](https://flagship.io) - Feature management and feature experimentation platform.

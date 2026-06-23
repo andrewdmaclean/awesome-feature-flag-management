@@ -70,6 +70,7 @@
 
 #### Offering OpenFeature SDKs
 
+- [Bucket](https://bucket.co) - A feature flag management platform with a focus on B2B SaaS companies.
 - [ConfigCat](https://configcat.com) - A cloud-based service that lets you release features without code deployments.
 - [DevCycle](https://devcycle.com) - A feature flag management platform built for developers.
 - [LaunchDarkly](https://launchdarkly.com) - A feature management platform that allows software development teams to deliver to their customers.

@@ -30,6 +30,8 @@
 - [FeatBit](https://www.featbit.co) - A fast, scalable, and popular open source feature flags management service `C#/.NET`.
 - [FeatureVisor](https://featurevisor.com) - Feature management for developers with GitOps `TypeScript`.
 - [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests `TypeScript`.
+- [Nona](https://nonaconfig.com) - An open-source, self-hosted feature flag and remote config service `C#/.NET`.
+
 
 #### Offering OpenFeature SDKs
 

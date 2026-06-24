@@ -32,7 +32,6 @@
 - [Growthbook](https://growthbook.io) - An open-source platform to help companies make data-driven product decisions with feature flags and A/B tests `TypeScript`.
 - [Nona](https://nonaconfig.com) - An open-source, self-hosted feature flag and remote config service `C#/.NET`.
 
-
 #### Offering OpenFeature SDKs
 
 - [Go Feature Flag](https://gofeatureflag.org) - A simple and lightweight self-hosted feature flag solution `Go`.

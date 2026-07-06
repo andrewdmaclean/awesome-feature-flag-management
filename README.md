@@ -78,4 +78,5 @@
 - [Harness](https://www.harness.io) - A continuous integration and continuous delivery platform for cloud and on-premise projects.
 
 ### Technology-specific Implementations
+- [FeatureFlags.app](https://featureflags.app/) - A privacy-first feature flag platform for .NET developers.
 - [Flipper](https://www.flippercloud.io/) - Feature flags and controls for Ruby apps and their client-side code.

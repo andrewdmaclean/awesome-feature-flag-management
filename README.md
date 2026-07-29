@@ -65,6 +65,7 @@
 - [Optimizely](https://www.optimizely.com) - An experimentation platform that helps developers build and run A/B tests on websites.
 - [PostHog](https://posthog.com) - An all-in-one, open source platform for building better products.
 - [PreFab](https://prefab.cloud) -  Offers features flags, dynamic log levels and remote config as a service.
+- [RocketFlag](https://rocketflag.app) - Feature flags with unlimited seats, evaluations and flags at one flat price, plus AI-agent prompts for stale-flag removal.
 - [Statsig](https://statsig.com) - A software product experimentation tool designed to make A/B testing more useful for more companies.
 - [Tggl](https://tggl.io) - A platform designed for seamless feature flag management and release orchestration, enabling teams to innovate rapidly and efficiently.
 

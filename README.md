@@ -76,6 +76,7 @@
 - [Split](https://www.split.io) - A feature delivery platform that powers feature flag management, software experimentation, and continuous delivery.
 - [CloudBees](https://docs.cloudbees.com) - A cloud-based platform that provides end-to-end automated software delivery.
 - [Harness](https://www.harness.io) - A continuous integration and continuous delivery platform for cloud and on-premise projects.
+- [UseFlagly](https://www.useflagly.com.br) - A cloud-native feature flag platform with native CNCF OpenFeature provider (`@useflagly/openfeature-provider`) and OFREP API support.
 
 ### Technology-specific Implementations
 - [Flipper](https://www.flippercloud.io/) - Feature flags and controls for Ruby apps and their client-side code.

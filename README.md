@@ -67,6 +67,7 @@
 - [PreFab](https://prefab.cloud) -  Offers features flags, dynamic log levels and remote config as a service.
 - [Statsig](https://statsig.com) - A software product experimentation tool designed to make A/B testing more useful for more companies.
 - [Tggl](https://tggl.io) - A platform designed for seamless feature flag management and release orchestration, enabling teams to innovate rapidly and efficiently.
+- [Zenmanage](https://zenmanage.com) - A feature management platform with progressive rollouts, targeting and segments, remote config, and scoped access controls with immutable audit history.
 
 #### Offering OpenFeature SDKs
 

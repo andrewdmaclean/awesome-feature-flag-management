@@ -72,6 +72,7 @@
 
 - [ConfigCat](https://configcat.com) - A cloud-based service that lets you release features without code deployments.
 - [DevCycle](https://devcycle.com) - A feature flag management platform built for developers.
+- [Featureflip](https://featureflip.io) - A feature flag platform whose GitHub Action opens a pull request to delete each dead flag's code path once its rollout finishes.
 - [LaunchDarkly](https://launchdarkly.com) - A feature management platform that allows software development teams to deliver to their customers.
 - [Split](https://www.split.io) - A feature delivery platform that powers feature flag management, software experimentation, and continuous delivery.
 - [CloudBees](https://docs.cloudbees.com) - A cloud-based platform that provides end-to-end automated software delivery.

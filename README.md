@@ -41,6 +41,7 @@
 
 ### Technology-specific Implementations
 
+- [dif](https://github.com/dif-sh/dif) - Feature flags and A/B tests as Markdown files in git, compiled to a typed client at build time `TypeScript`.
 - [Django Waffle](https://waffle.readthedocs.io) - Feature flipper for Django `Python`.
 - [FF4J](https://ff4j.org/) - Feature flags for Java `Java`.
 - [flopflip](https://github.com/tdeekens/flopflip) - Feature management for React apps backed by flag provider of your choice `TypeScript`.

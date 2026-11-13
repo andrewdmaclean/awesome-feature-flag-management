@@ -78,4 +78,5 @@
 - [Harness](https://www.harness.io) - A continuous integration and continuous delivery platform for cloud and on-premise projects.
 
 ### Technology-specific Implementations
+- [Evolve](https://evolveab.com) - A/B testing and multi-armed bandits for Next.js, with the variant picked server-side before render and an MIT-licensed SDK `TypeScript`.
 - [Flipper](https://www.flippercloud.io/) - Feature flags and controls for Ruby apps and their client-side code.
